@@ -1,9 +1,7 @@
 # Excel_Wuplex_Store_Analsis
 Welcome to my first data analysis project! 🎉  
 This project focuses on analyzing sales data from **Wulpex Store** using **Excel** to understand sales performance, customer behavior, and product trends.
----
-Welcome to my first data analysis project! 🎉  
-This project focuses on analyzing sales data from **Wulpex Store** using **Excel** to understand sales performance, customer behavior, and product trends.
+
 ---
 📂 About the Dataset
 The dataset used in this project is in Excel format:  
