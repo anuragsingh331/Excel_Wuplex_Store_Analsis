@@ -57,7 +57,7 @@ If you're a beginner, this project will help you learn:
 🙋‍♂️ About Me
 Hi, I’m Anurag Singh 👋
 I'm learning data analysis and building projects to improve my skills.
-🌐 [LinkedIn](https://www.linkedin.com/in/anurag-singh-12345)
-💼 [GitHub](https://github.com/anuragsingh01)
+🌐 [LinkedIn](https://www.linkedin.com/in/anurag-singh-8b2b6023a/)
+💼 [GitHub](https://github.com/anuragsingh331)
 📧 anurag.331.as@gmail.com.com
 
